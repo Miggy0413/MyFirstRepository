@@ -8,3 +8,6 @@
 
 ![Kung Fu Panda](images/poster2.jpg)
 
+* Bladerunner 2049
+
+![Bladerunner 2049](images/poster3.jpg)
