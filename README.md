@@ -1,5 +1,10 @@
 # My Favorite Movies
 
-1. John Wick
-2. Kung Fu Panda
-3. Bladerunner
+* John Wick
+
+![John Wick](images/poster1.jpg)
+
+* Kung Fu Panda
+
+![Kung Fu Panda](images/poster2.jpg)
+
